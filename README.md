@@ -2,8 +2,8 @@
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais
 - 🌱 Atualmente estou aprendendo e evoluindo.
-- 👯 Procuro colaborar e me dedicar ao maximo.
-- 🤔 Procuro ajuda e passar meus conhecimentos.
+- 👨🏾‍🏭 Procuro colaborar e me dedicar ao maximo.
+- 🤓 Procuro ajudar e passar meus conhecimentos.
 
 
 <a href="https://github.com/lucas/github-readme-stats">
